@@ -3,3 +3,4 @@ Upscaling List
 - MIT Course
 - Article Review
 - Online Research
+- Interactive Exchange with Fellow Students of MIT Course
