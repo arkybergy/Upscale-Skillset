@@ -1,3 +1,5 @@
 Upscaling List
 ----------------
 - MIT Course
+- Article Review
+- Online Research
